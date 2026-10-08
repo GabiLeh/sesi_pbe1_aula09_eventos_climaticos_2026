@@ -12,12 +12,12 @@ Foi revisado em sala de aula pelo professor Wellington (SENAI/SESI - Amparo) ``S
 * Thunder Client
 
 ## Instruções para testar
-1 Clone esse repositório
-2 Abra-o no [VS Code](https://code.visualstudio.com/download?_exp_download=d53503e735)
-3 Instale a extensão Thunder Client
-4 Clique em "New Request"
-5 Troque o link ao lado de GET por "http://localhost:3000/usuarios"
-6 Clique no GET e troque-o por POST
+1 Clone esse repositório <br>
+2 Abra-o no [VS Code](https://code.visualstudio.com/download?_exp_download=d53503e735)<br>
+3 Instale a extensão Thunder Client<br>
+4 Clique em "New Request"<br>
+5 Troque o link ao lado de GET por "http://localhost:3000/usuarios"<br>
+6 Clique no GET e troque-o por POST<br>
 7 Copie e cole, editando as informações:
 ``
 {
@@ -25,8 +25,8 @@ Foi revisado em sala de aula pelo professor Wellington (SENAI/SESI - Amparo) ``S
   "email": "makakin@email.com",
   "senha": "123"
 }
-``
-8 Clique em SEND, e seu Thunder Client deverá ficar assim:
+`` <br>
+8 Clique em SEND, e seu Thunder Client deverá ficar assim:<br>
 <img src="docs/post_thunder-client.png">
 ### Ao iniciar o servidor e ir em http://localhost:3000/usuarios o novo usuário aparecerá com os outros já cadastrados:
 <img src="docs/get.png">
